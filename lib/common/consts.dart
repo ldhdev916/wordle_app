@@ -1,0 +1,1 @@
+const kMaxWords = 6;
